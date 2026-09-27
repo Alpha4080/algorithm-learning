@@ -88,10 +88,10 @@ if(st.empty()){
 
 ## 7.Problems
 
-| Problem | Difficulty | Key Idea | Status |
+| Problem | Difficulty | Status |
 | --- | --- | --- | --- |
-| B3614 【模板】栈 | 入门 |  | [x] |
-| P1739 表达式括号匹配 | 入门 |  | [x] |
-| P1449 后缀表达式 | 普及- |  | [x] |
+| B3614 【模板】栈 | 入门 | [x] |
+| P1739 表达式括号匹配 | 入门 | [x] |
+| P1449 后缀表达式 | 普及- | [x] |
 
 ## 8.Summary
