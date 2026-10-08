@@ -27,4 +27,13 @@
 
 | Problem | Topic | Difficulty | Status |
 | --- | --- | --- | --- |
-|P1047 校门外的树 |Array | 入门 | ✔ |
+| P1047 校门外的树 | Array | 入门 | [x] |
+| P1059 明明的随机数 | Array | 普及- | [x] |
+| P1149 后缀表达式 | Stack | 普及- | [x] |
+| P1160 队列安排 | Queue | 普及 | [x] |
+| P1540 机器翻译 | Queue/Array | 普及- | [x] |
+| P1739 表达式括号匹配 | Stack | 入门 | [x] |
+| P1996 约瑟夫问题 | Queue | 普及- | [x] |
+| B3614 栈 | Stack | 普及- | [x] |
+| B3616 队列 | Queue | 普及- | [x] |
+| B3631 单向链表 | Array | 普及- | [x] |
